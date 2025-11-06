@@ -1,0 +1,12 @@
+# Ignore large data folder
+data/
+yt/
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.log
+*.fits
+*.hdf5
+*.npy
+*.tmp
